@@ -93,4 +93,5 @@ C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# autom
 C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E2\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.dll
 C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E2\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.pdb
 C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E2\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E2\UnitTestProject1\UnitTestProject1\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E2\UnitTestProject1\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.csproj.CoreCompileInputs.cache
